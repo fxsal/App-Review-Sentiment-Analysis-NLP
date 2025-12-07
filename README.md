@@ -1,6 +1,6 @@
 # **📘 App Review Sentiment Analysis — NLP Pipeline**
 
-This repository delivers a focused, insight-driven sentiment-analysis workflow engineered to transform raw application reviews into structured intelligence. The architecture is intentionally lean—no wasted motion, no unnecessary components—just a disciplined pipeline crafted for clarity, reproducibility, and operational impact.
+This repository delivers a focused, insight-driven sentiment-analysis workflow engineered to transform raw application reviews into structured intelligence. The architecture is intentionally lean - no wasted motion, no unnecessary components - just a disciplined pipeline crafted for clarity, reproducibility, and operational impact.
 
 ---
 
